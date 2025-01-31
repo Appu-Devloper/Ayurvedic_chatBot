@@ -42,7 +42,7 @@ Smooth Page Indicator (For onboarding UI)
 
 Clone the Repository
 
-git clone https://github.com/yourusername/AyurvedaChatbot.git
+git clone https://github.com/Appu-Devloper/Ayurvedic_chatBot.git
 cd AyurvedaChatbot
 
 Install Dependencies
